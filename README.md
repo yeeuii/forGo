@@ -1,0 +1,2 @@
+# forGo
+for Go Projects
