@@ -9,6 +9,6 @@ using namespace std;
 
 int main(int argc, char* argv[])
 {
-	cout <<"我可以用中文吗？"<< endl;
+	cout <<"Can't show right Chinese? "<< endl;
 	return 0;
 }
