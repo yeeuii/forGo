@@ -1,2 +1,1 @@
-# forGo
-for Go Projects
+开始学习使用 Git，加油！
